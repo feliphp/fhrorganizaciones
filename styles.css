@@ -1,0 +1,310 @@
+/** General Styles **/
+/*
+@Autor: JFHR
+@fecha:  2015-10-28
+@update:  2015-11-6
+@Comentario: Versiones del módulo
+* Estilos del módulo, en especial de las viñetas del arbol
+*/
+.nivel-0{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-1{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-left:10px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-2{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-left:25px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-3{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-left:35px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-4{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-left:50px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-5{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-left:60px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-6{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-left:70px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-7{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-left:80px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-8{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-left:90px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-9{
+   background:url([[pix:mod_fhrorganizaciones|t/flechita]]) left top; 
+   width:12px; 
+   height:9px;
+   margin-top:5px;
+   margin-left:100px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+/** flecha abajo **/
+.nivel-0fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-1fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-left:10px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-2fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-left:25px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-3fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-left:35px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-4fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-left:50px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-5fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-left:60px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-6fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-left:70px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-7fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-left:80px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-8fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-left:90px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-9fa{
+   background:url([[pix:mod_fhrorganizaciones|t/flechitaabajo]]) left top; 
+   width:9px; 
+   height:12px;
+   margin-top:5px;
+   margin-left:100px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+/** end flecha abajo **/
+
+
+/** das **//
+.nivel-0da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-1da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-left:10px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-2da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-left:25px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-3da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-left:35px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-4da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-left:50px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-5da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-left:60px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-6da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-left:70px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-7da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-left:80px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-8da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-left:90px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
+.nivel-9da{
+   background:url([[pix:mod_fhrorganizaciones|t/puntoazul]]) left top; 
+   width:7px; 
+   height:6px;
+   margin-top:5px;
+   margin-left:100px;
+   margin-right:5px;
+   display: block;
+   float: left;
+}
